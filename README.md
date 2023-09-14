@@ -1,5 +1,5 @@
 # stat-545-demo-Shreya
-Work through GIT and its perks with R
+Work through GIT and perks with R
 
 Shreya Verma
 Data Scientist
